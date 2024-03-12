@@ -1,36 +1,32 @@
 
-}
-java:S1192Ÿ"_Define a constant instead of duplicating this literal "Ingrese su nombre de usuario: " 3 times.(ûÿ8¥åıã1
-z
-java:S1192°"WDefine a constant instead of duplicating this literal "Usuario no encontrado." 3 times.(á¨ò¨üÿÿÿÿ8¦åıã1
-’
-java:S1319="pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İ“µşÿÿÿÿ8¦åıã1
-’
-java:S1319["pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÂŞÁ­úÿÿÿÿ8§åıã1
-’
-java:S1319_"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(»‡í¼ùÿÿÿÿ8§åıã1
-L	java:S106v"+Replace this use of System.out by a logger.(¶©€úÿÿÿÿ8‹çıã1
-L	java:S106w"+Replace this use of System.out by a logger.(ÄÏ ùÿÿÿÿ8‹çıã1
-G	java:S106x"+Replace this use of System.out by a logger.(´‡Õ8‹çıã1
-G	java:S106y"+Replace this use of System.out by a logger.(ºó¿Ú8‹çıã1
-L	java:S106z"+Replace this use of System.out by a logger.(çÇ¡ãøÿÿÿÿ8Œçıã1
-L	java:S106{"+Replace this use of System.out by a logger.(¾€¹úÿÿÿÿ8çıã1
-F	java:S106}"+Replace this use of System.out by a logger.(µŒ“]8çıã1
-M	java:S106"+Replace this use of System.out by a logger.(ô±Èıÿÿÿÿ8çıã1
-M	java:S106’"+Replace this use of System.out by a logger.(¿Ÿïäşÿÿÿÿ8çıã1
-M	java:S106˜"+Replace this use of System.out by a logger.(ÇÛÑ‚şÿÿÿÿ8“çıã1
-H	java:S106š"+Replace this use of System.out by a logger.(¨ñ–‘8”çıã1
-H	java:S106Ÿ"+Replace this use of System.out by a logger.(ûÿ8–çıã1
-H	java:S106«"+Replace this use of System.out by a logger.(ıè™¤8œçıã1
-H	java:S106­"+Replace this use of System.out by a logger.(¨ñ–‘8çıã1
-M	java:S106°"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8Ÿçıã1
-H	java:S106µ"+Replace this use of System.out by a logger.(ûÿ8æíÂŸã1
-G	java:S106Â"+Replace this use of System.out by a logger.(Âµºl8çíÂŸã1
-M	java:S106Ğ"+Replace this use of System.out by a logger.(™ï®úÿÿÿÿ8éíÂŸã1
-H	java:S106Ò"+Replace this use of System.out by a logger.(»ğú8êíÂŸã1
-M	java:S106Õ"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8êíÂŸã1
-H	java:S106Ú"+Replace this use of System.out by a logger.(ûÿ8ìíÂŸã1
-M	java:S106ç"+Replace this use of System.out by a logger.(ºäãˆøÿÿÿÿ8ííÂŸã1
-M	java:S106õ"+Replace this use of System.out by a logger.(Èø÷Ğúÿÿÿÿ8îíÂŸã1
-M	java:S106÷"+Replace this use of System.out by a logger.(”’ÃÖÿÿÿÿÿ8ïíÂŸã1
-M	java:S106ú"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8ïíÂŸã1
+|
+java:S1192C"_Define a constant instead of duplicating this literal "Ingrese su nombre de usuario: " 3 times.(ûÿ8¥åıã1
+y
+java:S1192T"WDefine a constant instead of duplicating this literal "Usuario no encontrado." 3 times.(á¨ò¨üÿÿÿÿ8¦åıã1
+L	java:S106"+Replace this use of System.out by a logger.(¶©€úÿÿÿÿ8‹çıã1
+L	java:S106"+Replace this use of System.out by a logger.(ÄÏ ùÿÿÿÿ8‹çıã1
+G	java:S106"+Replace this use of System.out by a logger.(´‡Õ8‹çıã1
+G	java:S106"+Replace this use of System.out by a logger.(ºó¿Ú8‹çıã1
+L	java:S106"+Replace this use of System.out by a logger.(çÇ¡ãøÿÿÿÿ8Œçıã1
+L	java:S106"+Replace this use of System.out by a logger.(¾€¹úÿÿÿÿ8çıã1
+F	java:S106!"+Replace this use of System.out by a logger.(µŒ“]8çıã1
+L	java:S1063"+Replace this use of System.out by a logger.(ô±Èıÿÿÿÿ8çıã1
+L	java:S1066"+Replace this use of System.out by a logger.(¿Ÿïäşÿÿÿÿ8çıã1
+L	java:S106<"+Replace this use of System.out by a logger.(ÇÛÑ‚şÿÿÿÿ8“çıã1
+G	java:S106>"+Replace this use of System.out by a logger.(¨ñ–‘8”çıã1
+G	java:S106C"+Replace this use of System.out by a logger.(ûÿ8–çıã1
+G	java:S106O"+Replace this use of System.out by a logger.(ıè™¤8œçıã1
+G	java:S106Q"+Replace this use of System.out by a logger.(¨ñ–‘8çıã1
+L	java:S106T"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8Ÿçıã1
+G	java:S106Y"+Replace this use of System.out by a logger.(ûÿ8æíÂŸã1
+F	java:S106f"+Replace this use of System.out by a logger.(Âµºl8çíÂŸã1
+L	java:S106t"+Replace this use of System.out by a logger.(™ï®úÿÿÿÿ8éíÂŸã1
+G	java:S106v"+Replace this use of System.out by a logger.(»ğú8êíÂŸã1
+L	java:S106y"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8êíÂŸã1
+G	java:S106~"+Replace this use of System.out by a logger.(ûÿ8ìíÂŸã1
+M	java:S106‹"+Replace this use of System.out by a logger.(ºäãˆøÿÿÿÿ8ííÂŸã1
+M	java:S106™"+Replace this use of System.out by a logger.(Èø÷Ğúÿÿÿÿ8îíÂŸã1
+M	java:S106›"+Replace this use of System.out by a logger.(”’ÃÖÿÿÿÿÿ8ïíÂŸã1
+M	java:S106"+Replace this use of System.out by a logger.(á¨ò¨üÿÿÿÿ8ïíÂŸã1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Æ® ã1
