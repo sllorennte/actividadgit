@@ -1,0 +1,13 @@
+
+’
+java:S1319="pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(έ“µώÿÿÿÿ8ώΟεγ1
+L	java:S106C"+Replace this use of System.out by a logger.(½ΟΓϋÿÿÿÿ8Πεγ1
+G	java:S106D"+Replace this use of System.out by a logger.(°ράη8Πεγ1
+L	java:S106E"+Replace this use of System.out by a logger.(Γ―®ηύÿÿÿÿ8Πεγ1
+L	java:S106F"+Replace this use of System.out by a logger.(άΕΙΣÿÿÿÿÿ8Πεγ1
+L	java:S106G"+Replace this use of System.out by a logger.(εΞ’Νώÿÿÿÿ8Πεγ1
+G	java:S106I"+Replace this use of System.out by a logger.(ξο¤8Πεγ1
+L	java:S106L"+Replace this use of System.out by a logger.(‡‡³§ÿÿÿÿÿ8Πεγ1
+L	java:S106M"+Replace this use of System.out by a logger.(ί… πόÿÿÿÿ8Πεγ1
+G	java:S106N"+Replace this use of System.out by a logger.(ΖªΎξ8Πεγ1
+L	java:S106O"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8Πεγ1

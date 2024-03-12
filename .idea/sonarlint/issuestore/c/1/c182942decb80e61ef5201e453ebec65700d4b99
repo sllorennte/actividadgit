@@ -1,0 +1,15 @@
+
+’
+java:S1319;"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İ“µşÿÿÿÿ8×¾Ğã1
+0
+java:S1220""Move this file to a named package.
+L	java:S106A"+Replace this use of System.out by a logger.(œ½ÏÃûÿÿÿÿ8ê¾Ğã1
+G	java:S106B"+Replace this use of System.out by a logger.(°ñÜç8ë¾Ğã1
+L	java:S106C"+Replace this use of System.out by a logger.(Ã¯®çıÿÿÿÿ8ë¾Ğã1
+L	java:S106D"+Replace this use of System.out by a logger.(ÜÅÉÓÿÿÿÿÿ8ì¾Ğã1
+L	java:S106E"+Replace this use of System.out by a logger.(åÎ’Íşÿÿÿÿ8ì¾Ğã1
+G	java:S106G"+Replace this use of System.out by a logger.(îï¤8í¾Ğã1
+L	java:S106J"+Replace this use of System.out by a logger.(‡‡³§ÿÿÿÿÿ8í¾Ğã1
+L	java:S106K"+Replace this use of System.out by a logger.(ß… ğüÿÿÿÿ8î¾Ğã1
+G	java:S106L"+Replace this use of System.out by a logger.(Æª¾î8î¾Ğã1
+L	java:S106M"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ï¾Ğã1
