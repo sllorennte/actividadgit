@@ -111,6 +111,8 @@ public class Main {
 
         biblioteca.registrarUsuario(new Usuario("Juan", "Perez", "123456789", "juan@gmail.com"));
         biblioteca.registrarUsuario(new Usuario("María", "Gonzalez", "987654321", "maria@gmail.com"));
+        biblioteca.registrarUsuario(new Usuario("Adrian", "Mateos", "537936104", "adrian@gmail.com"));
+        biblioteca.registrarUsuario(new Usuario("Laura", "Martínez", "824650174", "laura@gmail.com"));
 
         Scanner scanner = new Scanner(System.in);
 
